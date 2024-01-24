@@ -19,3 +19,4 @@ This components were used to build this device:
 
 ## Gameplay
 The button on the left is used to start the game. When it is pressed, the first two pixels on the strip turn on. Once the user has selected a colour, they confirm it with the centre button. At this point, two next pixels light up and, if a point is scored, a green LED lights up. After making four choices, we end the game with the right button, and in the serial port monitor we receive information about our score and the time of the game.
+
